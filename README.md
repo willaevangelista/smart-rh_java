@@ -74,5 +74,5 @@ Para melhor visualização, aqui estão os códigos principais:
 - **Framework**: Spring Boot  
 - **Banco de Dados**: MySQL  
 - **JPA/Hibernate**: Para persistência de dados  
-- **IDE utilizada**: Spring Tools Suite (STS) ou IntelliJ IDEA  
-- **Ferramenta de Testes**: Insomnia ou Postman  
+- **IDE utilizada**: Spring Tools Suite (STS)
+- **Ferramenta de Testes**: Insomnia
