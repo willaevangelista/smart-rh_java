@@ -1,4 +1,8 @@
-# 📌 Projeto SmartRH - Sistema de Cadastro de Colaboradores
+<div align='center'/>
+
+# Projeto SmartRH - Sistema de Cadastro de Colaboradores
+
+</div>
 
 ![Descrição da imagem](https://raw.githubusercontent.com/willaevangelista/smart-rh_java/main/src/main/resources/img/SmartRH.png)
 
