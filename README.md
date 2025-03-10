@@ -1,5 +1,7 @@
 # 📌 Projeto SmartRH - Sistema de Cadastro de Colaboradores
 
+![Descrição da imagem](https://raw.githubusercontent.com/willaevangelista/smart-rh_java/main/src/main/resources/img/SmartRH.png)
+
 O projeto **SmartRH** é uma aplicação backend desenvolvida com o **Spring Framework**. O principal objetivo desse sistema é criar uma **API CRUD** para gerenciar colaboradores de uma empresa, utilizando boas práticas de desenvolvimento e **arquitetura em camadas** (*Model, Repository, Controller*).
 
 ******
