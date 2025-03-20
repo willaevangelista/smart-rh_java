@@ -121,6 +121,8 @@ Este projeto foi possível graças às contribuições das seguintes desenvolved
         </a>
       </td>
     </tr>
+  </table>
+  <table>
     <tr>
       <td align="center">
         <a href="https://www.linkedin.com/in/larissa-alves-s/" title="Linkedin da Larissa Alves">
@@ -137,15 +139,6 @@ Este projeto foi possível graças às contribuições das seguintes desenvolved
             <b>Mariana Carmo</b>
           </sub>
         </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/fernandafclg" title="GitHub da Fernanda Pereira">
-          <img src="https://avatars.githubusercontent.com/u/180988235?v=4" width="100px;" alt="Foto da Fernanda Pereira"/><br>
-          <sub>
-            <b>Fernanda Pereira</b>
-          </sub>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
